@@ -1,2 +1,2 @@
-# exploration-preprocessing
-Data Exploration and Preprocessing Practice Material
+# Data Exploration, Preprocessing, and Visualization
+DataData Exploration, Preprocessing, and Visualization Practice Material
